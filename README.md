@@ -51,6 +51,6 @@ Aaaand congratulations! You’re done!
 
 Give yourself a pat on the back while you enjoy your freshly made scrambled eggs!
 
-
+![](scrambledeggs.jpg)
 
 ###### For a more detailed tutorial, please visit [this place](https://www.incredibleegg.org/recipes/basic-scrambled-eggs/). Their tutorial is, admittedly, just a liiiittle more wonderful than this one.
