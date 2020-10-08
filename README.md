@@ -15,9 +15,9 @@
 - A little bit of unspoiled milk
   - Can be acquired from Grocery Store
 - A bit of salt
-  - Can be acquired from the tears of a sad homo sapien
+  - Can be acquired from drying the tears of a sad homo sapien
 - Something that can be used to beat things
-  - I recommend chopsticks, if you happen to be fluent in them. Can be acquired from Grocery Store
+  - I recommend chopsticks, if you happen to be fluent in them, but almost any other utensil could work. Can be acquired from Grocery Store
 - A reasonably big bowl
   - Can be acquired from Grocery Store
 - A bit of oil
